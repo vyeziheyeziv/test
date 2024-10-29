@@ -9,5 +9,5 @@ In order to investigate the possibility of effective representation for pitch an
 ## Usage
 
 The training and inference code are provided in:
-[Run in Colab](https://colab.research.google.com/drive/1pBT4P_FWldxADBgfzgM3hgVUdX9QArPP?usp=sharing)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pBT4P_FWldxADBgfzgM3hgVUdX9QArPP?usp=sharing)
 
